@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QL_LINHKIENDIENTU_WEBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="account">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="email" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="phone" Type="String" MaxLength="11" FixedLength="false" Unicode="false" />
+    <Property Name="password" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="image" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="fullname" Type="String" MaxLength="100" FixedLength="true" Unicode="true" />
+    <Property Name="address" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="status" Type="Boolean" />
+    <Property Name="idrole" Type="Int32" />
+    <NavigationProperty Name="role" Relationship="Self.FK_accounts_role" FromRole="accounts" ToRole="role" />
+    <NavigationProperty Name="orders" Relationship="Self.FK_orders_accounts" FromRole="accounts" ToRole="orders" />
+    <Property Name="username" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="category">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="alias" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="products" Relationship="Self.FK_products_category" FromRole="category" ToRole="products" />
+  </EntityType>
+  <EntityType Name="order">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="idaccount" Type="Int32" />
+    <Property Name="createdate" Type="DateTime" Precision="0" />
+    <Property Name="email" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="fullname" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="address" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="phone" Type="String" MaxLength="11" FixedLength="false" Unicode="false" />
+    <Property Name="total" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="note" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="account" Relationship="Self.FK_orders_accounts" FromRole="orders" ToRole="accounts" />
+    <NavigationProperty Name="orderdetails" Relationship="QL_LINHKIENDIENTU_WEBModel.FK_orderdetails_orders" FromRole="order" ToRole="orderdetail" />
+  </EntityType>
+  <EntityType Name="product">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="alias" Type="String" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Name="price" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="quantity" Type="Int32" />
+    <Property Name="promationprice" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="image" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="newproduct" Type="Boolean" />
+    <Property Name="idcategory" Type="Int32" />
+    <NavigationProperty Name="category" Relationship="Self.FK_products_category" FromRole="products" ToRole="category" />
+    <NavigationProperty Name="orderdetails" Relationship="QL_LINHKIENDIENTU_WEBModel.FK_orderdetails_products" FromRole="product" ToRole="orderdetail" />
+  </EntityType>
+  <EntityType Name="role">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="alias" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="accounts" Relationship="Self.FK_accounts_role" FromRole="role" ToRole="accounts" />
+  </EntityType>
+  <Association Name="FK_accounts_role">
+    <End Role="role" Type="Self.role" Multiplicity="0..1" />
+    <End Role="accounts" Type="Self.account" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="role">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="accounts">
+        <PropertyRef Name="idrole" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_orders_accounts">
+    <End Role="accounts" Type="Self.account" Multiplicity="0..1" />
+    <End Role="orders" Type="Self.order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="accounts">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="orders">
+        <PropertyRef Name="idaccount" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_products_category">
+    <End Role="category" Type="Self.category" Multiplicity="0..1" />
+    <End Role="products" Type="Self.product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="category">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="products">
+        <PropertyRef Name="idcategory" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QL_LINHKIENDIENTU_WEBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="accounts" EntityType="Self.account" />
+    <EntitySet Name="categories" EntityType="Self.category" />
+    <EntitySet Name="orders" EntityType="Self.order" />
+    <EntitySet Name="products" EntityType="Self.product" />
+    <EntitySet Name="roles" EntityType="Self.role" />
+    <AssociationSet Name="FK_accounts_role" Association="Self.FK_accounts_role">
+      <End Role="role" EntitySet="roles" />
+      <End Role="accounts" EntitySet="accounts" />
+    </AssociationSet>
+    <AssociationSet Name="FK_orders_accounts" Association="Self.FK_orders_accounts">
+      <End Role="accounts" EntitySet="accounts" />
+      <End Role="orders" EntitySet="orders" />
+    </AssociationSet>
+    <AssociationSet Name="FK_products_category" Association="Self.FK_products_category">
+      <End Role="category" EntitySet="categories" />
+      <End Role="products" EntitySet="products" />
+    </AssociationSet>
+    <EntitySet Name="orderdetails" EntityType="QL_LINHKIENDIENTU_WEBModel.orderdetail" />
+    <AssociationSet Name="FK_orderdetails_orders" Association="QL_LINHKIENDIENTU_WEBModel.FK_orderdetails_orders">
+      <End Role="order" EntitySet="orders" />
+      <End Role="orderdetail" EntitySet="orderdetails" />
+    </AssociationSet>
+    <AssociationSet Name="FK_orderdetails_products" Association="QL_LINHKIENDIENTU_WEBModel.FK_orderdetails_products">
+      <End Role="product" EntitySet="products" />
+      <End Role="orderdetail" EntitySet="orderdetails" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="orderdetail">
+    <Key>
+      <PropertyRef Name="idorder" />
+      <PropertyRef Name="idproduct" />
+    </Key>
+    <Property Name="idorder" Type="Int32" Nullable="false" />
+    <Property Name="idproduct" Type="Int32" Nullable="false" />
+    <Property Name="price" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="quantity" Type="Int32" />
+    <Property Name="subtotal" Type="Decimal" Precision="18" Scale="0" />
+    <NavigationProperty Name="order" Relationship="QL_LINHKIENDIENTU_WEBModel.FK_orderdetails_orders" FromRole="orderdetail" ToRole="order" />
+    <NavigationProperty Name="product" Relationship="QL_LINHKIENDIENTU_WEBModel.FK_orderdetails_products" FromRole="orderdetail" ToRole="product" />
+  </EntityType>
+  <Association Name="FK_orderdetails_orders">
+    <End Type="QL_LINHKIENDIENTU_WEBModel.order" Role="order" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Type="QL_LINHKIENDIENTU_WEBModel.orderdetail" Role="orderdetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="order">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="orderdetail">
+        <PropertyRef Name="idorder" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_orderdetails_products">
+    <End Type="QL_LINHKIENDIENTU_WEBModel.product" Role="product" Multiplicity="1" />
+    <End Type="QL_LINHKIENDIENTU_WEBModel.orderdetail" Role="orderdetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="product">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="orderdetail">
+        <PropertyRef Name="idproduct" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

@@ -1,0 +1,280 @@
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\ApplicationInsights.config
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\roslyn\csc.exe
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\roslyn\System.Collections.Immutable.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\roslyn\System.Reflection.Metadata.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\roslyn\vbc.exe
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\roslyn\VBCSCompiler.exe
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\roslyn\VBCSCompiler.exe.config
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Do_An_KDCLPM.dll.config
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Do_An_KDCLPM.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Do_An_KDCLPM.pdb
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Antlr3.Runtime.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\EntityFramework.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\EntityFramework.SqlServer.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AI.DependencyCollector.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AI.Web.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AI.WindowsServer.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.ApplicationInsights.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Security.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Security.Google.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Web.Infrastructure.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Newtonsoft.Json.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Owin.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Net.Http.Formatting.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.Helpers.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.Http.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.Http.WebHost.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.Mvc.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.Optimization.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.Razor.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.WebPages.Deployment.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.WebPages.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.WebPages.Razor.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\WebGrease.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AI.DependencyCollector.xml
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AI.Web.xml
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AI.WindowsServer.xml
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.ApplicationInsights.xml
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.Helpers.xml
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.Mvc.xml
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.Optimization.xml
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.Razor.xml
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.WebPages.xml
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.WebPages.Deployment.xml
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.WebPages.Razor.xml
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Antlr3.Runtime.pdb
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Newtonsoft.Json.xml
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Net.Http.Formatting.xml
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.Http.xml
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.Http.WebHost.xml
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\EntityFramework.xml
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\EntityFramework.SqlServer.xml
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.xml
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Security.xml
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Security.Google.xml
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\obj\Debug\Do_An_KDCLPM.csprojResolveAssemblyReference.cache
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\obj\Debug\Do_An_KDCLPM.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\obj\Debug\Do_An_KDCLPM.pdb
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\PagedList.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\PagedList.Mvc.dll
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\PagedList.xml
+E:\Kiểm định chất lượng phần mềm\Do_An_KDCLPM\Do_An_KDCLPM\bin\PagedList.Mvc.xml
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\ApplicationInsights.config
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\roslyn\csc.exe
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\roslyn\vbc.exe
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Do_An_KDCLPM.dll.config
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Do_An_KDCLPM.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Do_An_KDCLPM.pdb
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Antlr3.Runtime.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\EntityFramework.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\EntityFramework.SqlServer.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AI.Web.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.ApplicationInsights.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Security.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Newtonsoft.Json.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Owin.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\PagedList.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\PagedList.Mvc.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Net.Http.Formatting.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.Helpers.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.Http.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.Http.WebHost.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.Mvc.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.Optimization.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.Razor.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.WebPages.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\WebGrease.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AI.Web.xml
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.ApplicationInsights.xml
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\PagedList.xml
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\PagedList.Mvc.xml
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.Helpers.xml
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.Mvc.xml
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.Optimization.xml
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.Razor.xml
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.WebPages.xml
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Antlr3.Runtime.pdb
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Newtonsoft.Json.xml
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Net.Http.Formatting.xml
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.Http.xml
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.Http.WebHost.xml
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\EntityFramework.xml
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\EntityFramework.SqlServer.xml
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.xml
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Security.xml
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\obj\Debug\Do_An_KDCLPM.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\obj\Debug\Do_An_KDCLPM.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\obj\Debug\Do_An_KDCLPM.csproj.CopyComplete
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\obj\Debug\Do_An_KDCLPM.dll
+C:\Users\admin\Downloads\Compressed\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\obj\Debug\Do_An_KDCLPM.pdb
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\ApplicationInsights.config
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\roslyn\csc.exe
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\roslyn\System.Collections.Immutable.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\roslyn\System.Reflection.Metadata.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\roslyn\vbc.exe
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\roslyn\VBCSCompiler.exe
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\roslyn\VBCSCompiler.exe.config
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Do_An_KDCLPM.dll.config
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Do_An_KDCLPM.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Do_An_KDCLPM.pdb
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Antlr3.Runtime.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\EntityFramework.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\EntityFramework.SqlServer.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AI.DependencyCollector.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AI.Web.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AI.WindowsServer.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.ApplicationInsights.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Security.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Security.Google.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Web.Infrastructure.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Newtonsoft.Json.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Owin.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\PagedList.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\PagedList.Mvc.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Net.Http.Formatting.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.Helpers.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.Http.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.Http.WebHost.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.Mvc.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.Optimization.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.Razor.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.WebPages.Deployment.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.WebPages.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.WebPages.Razor.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\WebGrease.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AI.DependencyCollector.xml
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AI.Web.xml
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AI.WindowsServer.xml
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.ApplicationInsights.xml
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\PagedList.xml
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\PagedList.Mvc.xml
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.Helpers.xml
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.Mvc.xml
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.Optimization.xml
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.Razor.xml
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.WebPages.xml
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.WebPages.Deployment.xml
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.WebPages.Razor.xml
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Antlr3.Runtime.pdb
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Newtonsoft.Json.xml
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Net.Http.Formatting.xml
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.Http.xml
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\System.Web.Http.WebHost.xml
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\EntityFramework.xml
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\EntityFramework.SqlServer.xml
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.xml
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Security.xml
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Security.Google.xml
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\obj\Debug\Do_An_KDCLPM.csproj.AssemblyReference.cache
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\obj\Debug\Do_An_KDCLPM.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\obj\Debug\Do_An_KDCLPM.csproj.CopyComplete
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\obj\Debug\Do_An_KDCLPM.dll
+D:\Workspace\C#\Do_An_Test-main\Do_An_KDCLPM\Do_An_KDCLPM\obj\Debug\Do_An_KDCLPM.pdb
