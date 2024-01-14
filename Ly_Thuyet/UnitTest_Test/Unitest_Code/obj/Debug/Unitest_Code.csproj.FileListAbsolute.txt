@@ -1,0 +1,7 @@
+D:\thkdpm\UnitTest_Test\Unitest_Code\bin\Debug\Unitest_Code.exe.config
+D:\thkdpm\UnitTest_Test\Unitest_Code\bin\Debug\Unitest_Code.exe
+D:\thkdpm\UnitTest_Test\Unitest_Code\bin\Debug\Unitest_Code.pdb
+D:\thkdpm\UnitTest_Test\Unitest_Code\obj\Debug\Unitest_Code.csprojAssemblyReference.cache
+D:\thkdpm\UnitTest_Test\Unitest_Code\obj\Debug\Unitest_Code.csproj.CoreCompileInputs.cache
+D:\thkdpm\UnitTest_Test\Unitest_Code\obj\Debug\Unitest_Code.exe
+D:\thkdpm\UnitTest_Test\Unitest_Code\obj\Debug\Unitest_Code.pdb

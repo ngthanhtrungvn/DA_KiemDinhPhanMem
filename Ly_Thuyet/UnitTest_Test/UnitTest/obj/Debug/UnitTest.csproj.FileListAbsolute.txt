@@ -1,0 +1,17 @@
+D:\thkdpm\UnitTest_Test\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\thkdpm\UnitTest_Test\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\thkdpm\UnitTest_Test\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\thkdpm\UnitTest_Test\UnitTest\bin\Debug\UnitTest.dll
+D:\thkdpm\UnitTest_Test\UnitTest\bin\Debug\UnitTest.pdb
+D:\thkdpm\UnitTest_Test\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\thkdpm\UnitTest_Test\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\thkdpm\UnitTest_Test\UnitTest\bin\Debug\Unitest_Code.exe
+D:\thkdpm\UnitTest_Test\UnitTest\bin\Debug\Unitest_Code.pdb
+D:\thkdpm\UnitTest_Test\UnitTest\bin\Debug\Unitest_Code.exe.config
+D:\thkdpm\UnitTest_Test\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\thkdpm\UnitTest_Test\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\thkdpm\UnitTest_Test\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+D:\thkdpm\UnitTest_Test\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+D:\thkdpm\UnitTest_Test\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+D:\thkdpm\UnitTest_Test\UnitTest\obj\Debug\UnitTest.dll
+D:\thkdpm\UnitTest_Test\UnitTest\obj\Debug\UnitTest.pdb

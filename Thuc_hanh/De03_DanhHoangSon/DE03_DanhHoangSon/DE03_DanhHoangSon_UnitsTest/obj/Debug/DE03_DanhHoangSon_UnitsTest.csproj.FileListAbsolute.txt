@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\De03_DanhHoangSon\DE03_DanhHoangSon\DE03_DanhHoangSon_UnitsTest\bin\Debug\DE03_DanhHoangSon_UnitsTest.dll
+C:\Users\Administrator\Desktop\De03_DanhHoangSon\DE03_DanhHoangSon\DE03_DanhHoangSon_UnitsTest\bin\Debug\DE03_DanhHoangSon_UnitsTest.pdb
+C:\Users\Administrator\Desktop\De03_DanhHoangSon\DE03_DanhHoangSon\DE03_DanhHoangSon_UnitsTest\bin\Debug\DE03_DanhHoangSon_Code.exe
+C:\Users\Administrator\Desktop\De03_DanhHoangSon\DE03_DanhHoangSon\DE03_DanhHoangSon_UnitsTest\bin\Debug\DE03_DanhHoangSon_Code.pdb
+C:\Users\Administrator\Desktop\De03_DanhHoangSon\DE03_DanhHoangSon\DE03_DanhHoangSon_UnitsTest\obj\Debug\DE03_DanhHoangSon_UnitsTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\De03_DanhHoangSon\DE03_DanhHoangSon\DE03_DanhHoangSon_UnitsTest\obj\Debug\DE03_DanhHoangSon_UnitsTest.dll
+C:\Users\Administrator\Desktop\De03_DanhHoangSon\DE03_DanhHoangSon\DE03_DanhHoangSon_UnitsTest\obj\Debug\DE03_DanhHoangSon_UnitsTest.pdb

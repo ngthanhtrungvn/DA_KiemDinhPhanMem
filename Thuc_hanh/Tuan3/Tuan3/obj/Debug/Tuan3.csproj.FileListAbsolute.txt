@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Tuan3\Tuan3\bin\Debug\Tuan3.exe.config
+C:\Users\Administrator\Desktop\Tuan3\Tuan3\bin\Debug\Tuan3.exe
+C:\Users\Administrator\Desktop\Tuan3\Tuan3\bin\Debug\Tuan3.pdb
+C:\Users\Administrator\Desktop\Tuan3\Tuan3\obj\Debug\Tuan3.exe
+C:\Users\Administrator\Desktop\Tuan3\Tuan3\obj\Debug\Tuan3.pdb
+C:\Users\admin\Downloads\Compressed\Tuan3\Tuan3\obj\Debug\Tuan3.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\Compressed\Tuan3\Tuan3\obj\Debug\Tuan3.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Compressed\Tuan3\Tuan3\obj\Debug\Tuan3.exe
+C:\Users\admin\Downloads\Compressed\Tuan3\Tuan3\obj\Debug\Tuan3.pdb
+C:\Users\admin\Downloads\Compressed\Tuan3\Tuan3\bin\Debug\Tuan3.exe.config
+C:\Users\admin\Downloads\Compressed\Tuan3\Tuan3\bin\Debug\Tuan3.exe
+C:\Users\admin\Downloads\Compressed\Tuan3\Tuan3\bin\Debug\Tuan3.pdb
